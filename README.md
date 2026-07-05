@@ -23,6 +23,9 @@ Este proyecto consiste en una tarjeta de un producto donde el usuario puede aume
 │── estilos.css
 └── index.js
 ```
+## 🌐 Puedes ver la página en funcionamiento aquí:
+
+[GitHub Pages](https://anibuel.github.io/Desafio1JavaScript/)
 
 ## 👤 Autor
 
